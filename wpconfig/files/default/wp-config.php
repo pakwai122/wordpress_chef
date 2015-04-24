@@ -14,7 +14,7 @@
  * @package WordPress
  */
 
-define('WP_REDIS_HOST', 'moochk-rdis.6twy4u.0001.apse1.cache.amazonaws.com');
+define('WP_REDIS_HOST', 'moochk.6twy4u.0001.apse1.cache.amazonaws.com');
  
 define('WP_HOME','http://moochk-load-balancer-706327419.ap-southeast-1.elb.amazonaws.com');
 define('WP_SITEURL','http://moochk-load-balancer-706327419.ap-southeast-1.elb.amazonaws.com');
@@ -30,7 +30,7 @@ define('DB_USER', 'admin');
 define('DB_PASSWORD', 'azsxdc123');
 
 /** MySQL hostname */
-define('DB_HOST', 'moochk-rds-db.c20asuxakomu.ap-southeast-1.rds.amazonaws.com');
+define('DB_HOST', 'moochk-rds.c20asuxakomu.ap-southeast-1.rds.amazonaws.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
